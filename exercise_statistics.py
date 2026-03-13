@@ -13,7 +13,7 @@ def statistics():
     num3 = 23
     num4 = 12
 
-    Promedio = (num1 +num2 + num3 + num4)//4
+    Promedio = (num1 +num2 + num3 + num4)/4
     Maximo = 23
     Minimo = 8
     Rango = Maximo - Minimo
@@ -24,7 +24,7 @@ def statistics():
 
 
 
-#statistics()
+statistics()
 
 
 

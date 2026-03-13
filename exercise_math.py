@@ -16,6 +16,7 @@ def math():
     Suma = a + b
     Diferencia = a - b      
     Producto = a * b
+    Promedio = (a + b) /2
     Cociente = a // b
     Resto_entero = a % b
     valor_real = a / b
@@ -23,6 +24,7 @@ def math():
     print(Suma)
     print(Diferencia)
     print(Producto)
+    print(Promedio)
     print(Cociente)
     print(Resto_entero)
     print(valor_real)
