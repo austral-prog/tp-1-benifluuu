@@ -7,3 +7,12 @@ def triangle():
     """
     base = 10
     altura = 6
+
+    Area_triangulo = (base*altura) /2
+    print(Area_triangulo)
+
+#triangle()
+
+
+
+

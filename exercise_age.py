@@ -9,3 +9,23 @@ def age():
     4. La edad en minutos (1 hora = 60 minutos)
     """
     edad_anos = 25
+
+    edad_en_meses = edad_anos * 12
+    edad_en_dias = edad_anos * 365
+    edad_en_horas = edad_en_dias * 24
+    edad_en_minutos = edad_en_horas * 60
+
+    print(edad_en_meses)
+    print(edad_en_dias)
+    print(edad_en_horas)
+    print(edad_en_minutos)
+
+#age()
+
+    
+
+
+
+
+
+

@@ -7,3 +7,9 @@ def temperature():
     2. La temperatura original en Celsius
     """
     celsius = 25
+
+    temperatura_Fahrenheint = celsius * 9/5 + 32
+    print(temperatura_Fahrenheint)
+    print(celsius)
+
+#temperature()
